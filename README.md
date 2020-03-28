@@ -2,6 +2,9 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [独立播客](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTZkZjQzZTQ5N2ZmNDM5N2NjYjQ4MGQiLCJ2ZXJzaW9uIjoidjEifQ.yhNtAvKJB6dmMzwrlKvcgfCZjGKvig8xMrIkn-LIa1o)
+* [飞观App](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTY2NTNiZTQ5N2ZmNDZkMmM5YjExODEiLCJ2ZXJzaW9uIjoidjEifQ.MocbzXWGz7QnQzS3wJc-MZ9RuI15NKkvqSTzGrbomTE)
+* [V电影movie](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTY2NTBjMDQ5N2ZmNDZkMjkzNjI1Y2MiLCJ2ZXJzaW9uIjoidjEifQ.dfdGzOqJU1puL-vrGUUqW4c01mntyK0ES5AfI2EsYuU)
 * [AI源创评论](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTYxYWNkZTQ5N2ZmNDZkMjRjNzJlMDciLCJ2ZXJzaW9uIjoidjEifQ.-M8yWYtFN3I6Q-VP6oLvJgppuzaeBq6FuNpdJ2zPqek)
 * [自言稚语](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTVhNjJmNTQ5N2ZmNDU2ODY2YjBiZTUiLCJ2ZXJzaW9uIjoidjEifQ.9qIhsGC6fVvDQlQbTy9k1yIRUtWea5X4hR6hymZlDO0)
 * [Vistopia](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTQzZDM0MjQ5N2ZmNDU2N2ZlNDlhYjAiLCJ2ZXJzaW9uIjoidjEifQ.N4PxzJSZP-6UN9V3kDoqdQp-I3PKgP0M0qw4pE57RsI)
@@ -779,6 +782,7 @@
 * [UC校园](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWQwMzU4ZTVjNDU4MzMzOGU3OTUiLCJ2ZXJzaW9uIjoidjEifQ.mnNknebWpmI2vl2qzHlWf67zCBK3GqudGWqIfU-8mOo)
 * [腾讯创业](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWNmMTU4ZTVjNDU4MzMzOGU3NmIiLCJ2ZXJzaW9uIjoidjEifQ.tMpq11NS6a3hqkDyrrhgNFrXuV0WZGZYYKZTJNiQufQ)
 * [深夜发媸](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWNjMjU4ZTVjNDU4MzMzOGU3MzkiLCJ2ZXJzaW9uIjoidjEifQ.fLwO7wwI8Es_aNQXJEQoqNIxPcG0AfIlulhGbCnt_T0)
+* [穷游网](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWNiMDU4ZTVjNDU4MzMzOGU3MmEiLCJ2ZXJzaW9uIjoidjEifQ.zrSNsHlIMNDPsQ2ZtDK9BnSKf2YmiIKVXqyVQAxDzTQ)
 * [李淼](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWM4MTU4ZTVjNDU4MzMzOGU2ZTMiLCJ2ZXJzaW9uIjoidjEifQ.TfvJqPJBbDl3CaEMPSuQKmhuQKXvrrZp4N4qvsvhT_Y)
 * [KnowYourself](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWM2YzU4ZTVjNDU4MzMzOGU2ZGYiLCJ2ZXJzaW9uIjoidjEifQ.Ja71I_7KZ0PFQF5-RAg3ZPVNCP74HxOhL0o35E-uaEg)
 * [极客公园](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YjU5OWM1NzU4ZTVjNDU4MzMzOGU2YzAiLCJ2ZXJzaW9uIjoidjEifQ.J0o9z5sj5QrrDkfUb7WcWh7iXTMIF-6VL7YyH4-Aosc)
