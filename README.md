@@ -2,6 +2,8 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [远川研究所](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTgwMDg0OTQ5N2ZmNDM5ODU5NjgzZDUiLCJ2ZXJzaW9uIjoidjEifQ.YYozBxYLO9hjcRgbfUZvTSaH-pOoqDsOxj7DupkXmIg)
+* [上海市民生活指南](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTgwMDgxODQ5N2ZmNDM5N2I4OTE5OWEiLCJ2ZXJzaW9uIjoidjEifQ.w_Xps-sZB1Q11eLVRnr0JNZMByZAonJQkrw-O1cwxcE)
 * [独立播客](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTZkZjQzZTQ5N2ZmNDM5N2NjYjQ4MGQiLCJ2ZXJzaW9uIjoidjEifQ.yhNtAvKJB6dmMzwrlKvcgfCZjGKvig8xMrIkn-LIa1o)
 * [飞观App](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTY2NTNiZTQ5N2ZmNDZkMmM5YjExODEiLCJ2ZXJzaW9uIjoidjEifQ.MocbzXWGz7QnQzS3wJc-MZ9RuI15NKkvqSTzGrbomTE)
 * [V电影movie](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTY2NTBjMDQ5N2ZmNDZkMjkzNjI1Y2MiLCJ2ZXJzaW9uIjoidjEifQ.dfdGzOqJU1puL-vrGUUqW4c01mntyK0ES5AfI2EsYuU)
