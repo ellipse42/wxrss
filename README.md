@@ -2,6 +2,8 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [扣舷独啸](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWEzOWYzMDQ5N2ZmNDUwNmE4OWYzMTYiLCJ2ZXJzaW9uIjoidjEifQ.k_8_weofDazacHoZu3h5PrUMtuDu6jutgrerN72NjUw)
+* [运维派](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWEzOWU3YzQ5N2ZmNDUwNjg5ZGRhZDAiLCJ2ZXJzaW9uIjoidjEifQ.TzKt6hVmX1YWmXYavsZEPzqdeWiH0AP3rm7MVRJX0Yg)
 * [findyi](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWExNzY2YzQ5N2ZmNDUwNmMwMzNhOTciLCJ2ZXJzaW9uIjoidjEifQ.HMgJmSinq2Jh5onqvrNXxhE1SVWS3sZZi_tBGHiDOfY)
 * [一起设计](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTlmMmJlMzQ5N2ZmNDUwNjg5ZGJmMmIiLCJ2ZXJzaW9uIjoidjEifQ.xOGJRpF5aalkwExN4V1q5nd-RuSDHT-Z0eiynPNq6VM)
 * [远川研究所](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZTgwMDg0OTQ5N2ZmNDM5ODU5NjgzZDUiLCJ2ZXJzaW9uIjoidjEifQ.YYozBxYLO9hjcRgbfUZvTSaH-pOoqDsOxj7DupkXmIg)
@@ -104,6 +106,7 @@
 * [BYVoid](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2I4NjM3MzQ5N2ZmNDc1OWJkMTlkY2QiLCJ2ZXJzaW9uIjoidjEifQ.ThXvwQYaqrlDirUvAtB-I13WIqFMJWvfchDMe1FB_k4)
 * [杜绍斐](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2IyMDI5NzQ5N2ZmNDE0OWY4MGI5OGIiLCJ2ZXJzaW9uIjoidjEifQ.b0hR6PUkU0cctZB9_adicdE6eS3Vp7x9541Y6JcFOgg)
 * [财经连环话](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2FmN2ZlOTQ5N2ZmNDI3ZjY2ZWE4MmIiLCJ2ZXJzaW9uIjoidjEifQ.CfEr_RvGyYux_f9MWPWQIsT_qwJP1UiQ9dhrGZ_49vA)
+* [AINLP](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2FmN2QzMTQ5N2ZmNDIzYWQ0Y2E1YmYiLCJ2ZXJzaW9uIjoidjEifQ.0q-SAqEn7hLdodrf5ImFq7w1nNf4CRuxkIe4u_eniVY)
 * [航通社](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2FlZTljOTQ5N2ZmNDQ2NTg2ZGRlMGQiLCJ2ZXJzaW9uIjoidjEifQ.IxSLopXiY-SfiQ5irsc_S71N_e6LLExVfijG4b_yYJk)
 * [BIE别的女孩](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E5ZWE1MTQ5N2ZmNDZiZWRjMWZhMzciLCJ2ZXJzaW9uIjoidjEifQ.zLW50ICZ8Ca_n9iIInXdIKyUbd2AfLr5WG8bf43JvY8)
 * [互联网与娱乐怪盗团](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E5ZDNiYjQ5N2ZmNDIzYWE0NDZiMTMiLCJ2ZXJzaW9uIjoidjEifQ.QCQ_iHGmTIpvcyB0WgGqeU6mQpseFyfKUjP_tdbLsBE)
