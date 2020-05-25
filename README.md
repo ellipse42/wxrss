@@ -2,6 +2,8 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [深潮TechFlow](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWNiZjVkYjQ5N2ZmNDUwNjMwMDQ3MjAiLCJ2ZXJzaW9uIjoidjEifQ.WR_4L50k1tILkEFJige5rpJXw543a2Wi4XJxyaih4_Q)
+* [影艺独舌](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWNiZjVhNjQ5N2ZmNDUwNzAyZjExOGIiLCJ2ZXJzaW9uIjoidjEifQ.iZp0EP75Sl3OvjslMzKFBNBIZ8nkTnefvsiEy4PTYUI)
 * [新原理研究所](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWJjMjM2YzQ5N2ZmNDUwNjRkNzU5NDgiLCJ2ZXJzaW9uIjoidjEifQ.ByCeCdrAeRdwVOjDBPDkbaI-o171rQT8FPa-Xn8rI7w)
 * [FN商业](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWJjMjM0YjQ5N2ZmNDUwNzAyZWIxNjAiLCJ2ZXJzaW9uIjoidjEifQ.uR1i9Wgyj9OAg-hyIiZpGdDg3s3mtLDQuEmNx5kXgGY)
 * [正经社](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWJjMjJkODQ5N2ZmNDUwNmE4YTg4OWMiLCJ2ZXJzaW9uIjoidjEifQ.qU_C29cg3g94zdD990oFDX57ksi0iXPAG6JQMIvrlcM)
@@ -124,6 +126,7 @@
 * [倪叔的思考暗时间](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E3NGM0NDQ5N2ZmNDc3NWM0NGVlZTQiLCJ2ZXJzaW9uIjoidjEifQ.gfadsOHAFWVbVWh_4f4_jd1H9b3B0VcKwEJT6alIxJc)
 * [一天一篇经济学人](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E3NGI2ODQ5N2ZmNDc3NWM0NGVlZDkiLCJ2ZXJzaW9uIjoidjEifQ.NTPevznnQS5rtOljnsgF33cxFFx7XQlVAv1ZTKz6kp4)
 * [黑凤梨实验室](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E3NDljYzQ5N2ZmNDQwOGYxM2Y5YmEiLCJ2ZXJzaW9uIjoidjEifQ.pWJ9p9Wh-rymfkxEcWFS5ju9rFvOoa8o0v_IauuFShg)
+* [东西文娱](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E2Yjc1NDQ5N2ZmNDYwY2RkYjM3OWQiLCJ2ZXJzaW9uIjoidjEifQ.1UPX1YuOqOrTL075xSLw4aWBsmFUgHWiJwmXp4PH_sQ)
 * [冷热军事史](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E2YjE3MTQ5N2ZmNDQxMzQwYjc1M2QiLCJ2ZXJzaW9uIjoidjEifQ.mLBMH0lNdEgRtr4SYYeZ9Du3pRW6g0Ngex_rGsJpIgY)
 * [瑞丽伊人风尚](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E2YjE0ZjQ5N2ZmNDQ5Y2U3YTllNDMiLCJ2ZXJzaW9uIjoidjEifQ.kGrL-bMZwS4cls-EQg6SwDChZgm4tykcJl_Qv_cpDSY)
 * [钱塘大数据](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Y2E1ZGM3MzQ5N2ZmNDBmY2NiOGEyNTciLCJ2ZXJzaW9uIjoidjEifQ.TV43ZwYx_XAwyNVaJ1HBr-JXYqHN1foxROguf8xSwas)
