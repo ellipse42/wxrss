@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [展开讲讲编辑部](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZjBiMjc4MzQ5N2ZmNDE4NDY4ZWE4NmMiLCJ2ZXJzaW9uIjoidjEifQ.dSByZNmJ2dYqk4NbU_Yup5GqQ1qk87j3L_qxd_q1qG0)
 * [深潮TechFlow](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWNiZjVkYjQ5N2ZmNDUwNjMwMDQ3MjAiLCJ2ZXJzaW9uIjoidjEifQ.WR_4L50k1tILkEFJige5rpJXw543a2Wi4XJxyaih4_Q)
 * [影艺独舌](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWNiZjVhNjQ5N2ZmNDUwNzAyZjExOGIiLCJ2ZXJzaW9uIjoidjEifQ.iZp0EP75Sl3OvjslMzKFBNBIZ8nkTnefvsiEy4PTYUI)
 * [新原理研究所](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWJjMjM2YzQ5N2ZmNDUwNjRkNzU5NDgiLCJ2ZXJzaW9uIjoidjEifQ.ByCeCdrAeRdwVOjDBPDkbaI-o171rQT8FPa-Xn8rI7w)
@@ -688,6 +689,7 @@
 * [公路商店](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc2NWQ0ZjI0NGQ0ZTQ3ZDViMjU3MjAiLCJ2ZXJzaW9uIjoidjEifQ.2ZyFLt91HUBLKrYOwMHfEArsTO3tznWmh4lGlFp6Ke0)
 * [H5案例分享](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc2MzVjNTI0NGQ0ZTRhNTZlMjFiOWUiLCJ2ZXJzaW9uIjoidjEifQ.oSUlNRd5g2JYOoD5duROMuh1BcytNHOFRRvZ4dnED9o)
 * [LCA](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc2MzQ3OTI0NGQ0ZTQ4Zjc3ZjkzOGEiLCJ2ZXJzaW9uIjoidjEifQ.7XttNxL2VSQ4WfMLAGFQAuU_6pTrvbCp03ST9r47KnE)
+* [首席商业评论](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc1YTY4YTI0NGQ0ZTRhNTU4NzUwNTQiLCJ2ZXJzaW9uIjoidjEifQ.5qAhzMM7HQ99v_94IUeKqPMHNwO8hzyV-p4jhkah0jo)
 * [微信时刻](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc1OWUzZTI0NGQ0ZTQ5MTg2MWIwZmQiLCJ2ZXJzaW9uIjoidjEifQ.pSuy_xgNvHPs_nx_FQeQheKBWPjpmpmQkpO-GqEFGwM)
 * [Keep](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc1OWQ1ZTI0NGQ0ZTRhNTc3NzQwMWUiLCJ2ZXJzaW9uIjoidjEifQ.t-kIRMTbTcUcZUIL8B6FmLuse3Kpw0ysFdTcEOBt8BY)
 * [做書](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1Yjc0MjRmMDI0NGQ0ZTQ5MTg2MWFmZjMiLCJ2ZXJzaW9uIjoidjEifQ.3R8w6RmUZRNlsbny13tzPMlWDg4rmzjvr4QemzF3oUY)
