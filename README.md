@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [飞猪](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZjE1YmQ5MzQ5N2ZmNDE4NDY4ZWU5YzQiLCJ2ZXJzaW9uIjoidjEifQ.s_fVnjw0HVvd_Mz-Ema9QW4jnQha5GOpTroGuPxbnX0)
 * [展开讲讲编辑部](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZjBiMjc4MzQ5N2ZmNDE4NDY4ZWE4NmMiLCJ2ZXJzaW9uIjoidjEifQ.dSByZNmJ2dYqk4NbU_Yup5GqQ1qk87j3L_qxd_q1qG0)
 * [湾区经济评论](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWYwZjA4NzQ5N2ZmNDA3NDk4MTI1Y2YiLCJ2ZXJzaW9uIjoidjEifQ.jB779W_3Lb4qRcRyD64zKzsuSzV5iqm2ssFSuO6FP5M)
 * [深潮TechFlow](https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1ZWNiZjVkYjQ5N2ZmNDUwNjMwMDQ3MjAiLCJ2ZXJzaW9uIjoidjEifQ.WR_4L50k1tILkEFJige5rpJXw543a2Wi4XJxyaih4_Q)
