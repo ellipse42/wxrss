@@ -2,6 +2,8 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [营销有一套](http://freerss.qnmlgb.tech/wsmp/5f20598b497ff45023a7a429.xml)
+* [凹凸镜DOC](http://freerss.qnmlgb.tech/wsmp/5f205930497ff45023a7a422.xml)
 * [经观新闻](http://freerss.qnmlgb.tech/wsmp/5f1b0b78497ff4183fb2bae5.xml)
 * [不是官话](http://freerss.qnmlgb.tech/wsmp/5f16fbb8497ff4184f80439c.xml)
 * [TopMarketing](http://freerss.qnmlgb.tech/wsmp/5f16fb8b497ff418474c7d84.xml)
@@ -54,6 +56,7 @@
 * [叶檀楼市](http://freerss.qnmlgb.tech/wsmp/5e2311fc497ff456866a0142.xml)
 * [疯投圈](http://freerss.qnmlgb.tech/wsmp/5e22b3c7497ff4568259f3e8.xml)
 * [坚守本分](http://freerss.qnmlgb.tech/wsmp/5e21d52d497ff45683cddcde.xml)
+* [墨腾创投](http://freerss.qnmlgb.tech/wsmp/5e1fbba8497ff45683cdd008.xml)
 * [芭莎电影](http://freerss.qnmlgb.tech/wsmp/5e1de98e497ff45683cdc7e1.xml)
 * [YYeTs人人影视](http://freerss.qnmlgb.tech/wsmp/5e1b2df3497ff456887a07f5.xml)
 * [港股研究社](http://freerss.qnmlgb.tech/wsmp/5e1b1ca0497ff4567d250396.xml)
@@ -140,6 +143,7 @@
 * [知乎](http://freerss.qnmlgb.tech/wsmp/5cb86b2e497ff444c3012441.xml)
 * [知识星球精选](http://freerss.qnmlgb.tech/wsmp/5cb86a05497ff4759bd19df8.xml)
 * [BYVoid](http://freerss.qnmlgb.tech/wsmp/5cb86373497ff4759bd19dcd.xml)
+* [刘晓博说财经](http://freerss.qnmlgb.tech/wsmp/5cb31952497ff40625b87f4e.xml)
 * [杜绍斐](http://freerss.qnmlgb.tech/wsmp/5cb20297497ff4149f80b98b.xml)
 * [财经连环话](http://freerss.qnmlgb.tech/wsmp/5caf7fe9497ff427f66ea82b.xml)
 * [AINLP](http://freerss.qnmlgb.tech/wsmp/5caf7d31497ff423ad4ca5bf.xml)
@@ -522,6 +526,7 @@
 * [人间theLivings](http://freerss.qnmlgb.tech/wsmp/5b9ff108244d4e7d23412cef.xml)
 * [直播海南](http://freerss.qnmlgb.tech/wsmp/5b9f2c27244d4e78774a010d.xml)
 * [谷大白话](http://freerss.qnmlgb.tech/wsmp/5b9e8f49244d4e28e60bb8eb.xml)
+* [创见](http://freerss.qnmlgb.tech/wsmp/5b9e8ef4244d4e78763f6159.xml)
 * [三文娱](http://freerss.qnmlgb.tech/wsmp/5b9e8e16244d4e78763f6154.xml)
 * [雾满拦江](http://freerss.qnmlgb.tech/wsmp/5b9e8de3244d4e78774a0079.xml)
 * [开智学堂](http://freerss.qnmlgb.tech/wsmp/5b9e8d0a244d4e78774a0077.xml)
