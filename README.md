@@ -215,6 +215,7 @@
 * [电影情报处](http://freerss.qnmlgb.tech/wsmp/5c6e0ea0497ff47ac1213aa6.xml)
 * [娱情实验室](http://freerss.qnmlgb.tech/wsmp/5c6d4fc1497ff47aca80dcd9.xml)
 * [青年横财发展会](http://freerss.qnmlgb.tech/wsmp/5c6cec1c497ff47ac0c8436e.xml)
+* [三言财经](http://freerss.qnmlgb.tech/wsmp/5c6c2775497ff47ac7c8c084.xml)
 * [记忆承载3](http://freerss.qnmlgb.tech/wsmp/5c695c35497ff47ac31f798f.xml)
 * [苏宁金融研究院](http://freerss.qnmlgb.tech/wsmp/5c695c11497ff47ac31f798a.xml)
 * [子弹财经](http://freerss.qnmlgb.tech/wsmp/5c695a3c497ff47aca80d1df.xml)
