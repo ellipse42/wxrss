@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [青芒财经](http://freerss.qnmlgb.tech/wsmp/5f243e84497ff44c570511bf.xml)
 * [营销有一套](http://freerss.qnmlgb.tech/wsmp/5f20598b497ff45023a7a429.xml)
 * [凹凸镜DOC](http://freerss.qnmlgb.tech/wsmp/5f205930497ff45023a7a422.xml)
 * [经观新闻](http://freerss.qnmlgb.tech/wsmp/5f1b0b78497ff4183fb2bae5.xml)
@@ -223,6 +224,7 @@
 * [努力的Lorre](http://freerss.qnmlgb.tech/wsmp/5c6517ea497ff47ac97ab06a.xml)
 * [Jingdata](http://freerss.qnmlgb.tech/wsmp/5c6517cc497ff47ac82f8c4e.xml)
 * [湿在人为](http://freerss.qnmlgb.tech/wsmp/5c640dca497ff47ac31f6bf0.xml)
+* [商业观察家](http://freerss.qnmlgb.tech/wsmp/5c640ab9497ff47ac1211fda.xml)
 * [财经要参](http://freerss.qnmlgb.tech/wsmp/5c619325497ff47ac0c82747.xml)
 * [知乎实验室](http://freerss.qnmlgb.tech/wsmp/5c5cfcd5497ff47ac7c89bc4.xml)
 * [八大洲旅游资讯](http://freerss.qnmlgb.tech/wsmp/5c5cf136497ff47ac7c89ba6.xml)
