@@ -475,6 +475,7 @@
 * [POCO摄影社区](http://freerss.qnmlgb.tech/wsmp/5baba591244d4e0587335ac2.xml)
 * [拉勾](http://freerss.qnmlgb.tech/wsmp/5baba56e244d4e0587335ac0.xml)
 * [馒头商学院](http://freerss.qnmlgb.tech/wsmp/5baa6e99244d4e65d399f297.xml)
+* [QQ音乐](http://freerss.qnmlgb.tech/wsmp/5baa6e61244d4e65d8d18af8.xml)
 * [科技美学官方](http://freerss.qnmlgb.tech/wsmp/5baa0ba2244d4e65d399f1a0.xml)
 * [中产之路](http://freerss.qnmlgb.tech/wsmp/5ba91d0b244d4e78e4000323.xml)
 * [L先生说](http://freerss.qnmlgb.tech/wsmp/5ba87124244d4e6193538bf6.xml)
