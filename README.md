@@ -137,6 +137,7 @@
 * [摩托车杂志](http://freerss.qnmlgb.tech/wsmp/5cc9c416497ff46bde0c1ae2.xml)
 * [哈哈哈哈哈哈哈](http://freerss.qnmlgb.tech/wsmp/5cc82da4497ff4169e99cdab.xml)
 * [新潮沉思录](http://freerss.qnmlgb.tech/wsmp/5cc4460f497ff4781d708d89.xml)
+* [科学松鼠会](http://freerss.qnmlgb.tech/wsmp/5cbbdeaa497ff410ae6145b3.xml)
 * [前端外刊评论](http://freerss.qnmlgb.tech/wsmp/5cbac7e8497ff435bb7249ec.xml)
 * [新英文杂志](http://freerss.qnmlgb.tech/wsmp/5cb9f641497ff4452fc8b585.xml)
 * [掘金开发者社区](http://freerss.qnmlgb.tech/wsmp/5cb9f2a9497ff4110fc2c8c4.xml)
