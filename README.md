@@ -635,6 +635,7 @@
 * [华尔街俱乐部](http://freerss.qnmlgb.tech/wsmp/5b915ed3244d4e46696306e9.xml)
 * [秦朔朋友圈](http://freerss.qnmlgb.tech/wsmp/5b915ada244d4e46c967d119.xml)
 * [看理想](http://freerss.qnmlgb.tech/wsmp/5b915aa8244d4e46c967d117.xml)
+* [新京报评论](http://freerss.qnmlgb.tech/wsmp/5b915a76244d4e46bbcc1d8c.xml)
 * [最高人民检察院](http://freerss.qnmlgb.tech/wsmp/5b9159f5244d4e46b569bf19.xml)
 * [日本通](http://freerss.qnmlgb.tech/wsmp/5b915728244d4e466a615625.xml)
 * [同程旅游](http://freerss.qnmlgb.tech/wsmp/5b9154e0244d4e46b569bf13.xml)
