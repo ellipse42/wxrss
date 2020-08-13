@@ -8,6 +8,7 @@
 * [经观新闻](http://freerss.qnmlgb.tech/wsmp/5f1b0b78497ff4183fb2bae5.xml)
 * [不是官话](http://freerss.qnmlgb.tech/wsmp/5f16fbb8497ff4184f80439c.xml)
 * [TopMarketing](http://freerss.qnmlgb.tech/wsmp/5f16fb8b497ff418474c7d84.xml)
+* [豹变](http://freerss.qnmlgb.tech/wsmp/5f15be54497ff418468ee9d0.xml)
 * [蓝莓财经](http://freerss.qnmlgb.tech/wsmp/5f15bda0497ff4184a32a378.xml)
 * [飞猪](http://freerss.qnmlgb.tech/wsmp/5f15bd93497ff418468ee9c4.xml)
 * [展开讲讲编辑部](http://freerss.qnmlgb.tech/wsmp/5f0b2783497ff418468ea86c.xml)
