@@ -276,6 +276,7 @@
 * [设计癖](http://freerss.qnmlgb.tech/wsmp/5c3ed459497ff408cd162a81.xml)
 * [记忆承载](http://freerss.qnmlgb.tech/wsmp/5c3ed0a4497ff41a9458ec94.xml)
 * [有赞coder](http://freerss.qnmlgb.tech/wsmp/5c3dea9d497ff408cc223597.xml)
+* [大摩财经](http://freerss.qnmlgb.tech/wsmp/5c3d58e9497ff408cd162679.xml)
 * [晨兴资本Morningside](http://freerss.qnmlgb.tech/wsmp/5c3d5746497ff408c255cb0f.xml)
 * [PingCAP](http://freerss.qnmlgb.tech/wsmp/5c3d561d497ff408c35d3f84.xml)
 * [新浪港股](http://freerss.qnmlgb.tech/wsmp/5c3d554b497ff408c255cb0a.xml)
