@@ -877,7 +877,7 @@
 * [日本设计小站](http://freerss.qnmlgb.tech/wsmp/5b5adbda58e5c4583338ed4b.xml)
 * [利维坦](http://freerss.qnmlgb.tech/wsmp/5b5adb8a58e5c4583338ec01.xml)
 * [黎贝卡的异想世界](http://freerss.qnmlgb.tech/wsmp/5b5adb8458e5c4583338ebee.xml)
-* [局座召忠](http://freerss.qnmlgb.tech/wsmp/5b5adb6458e5c4583338ebb9.xml)
+* [战忽局](http://freerss.qnmlgb.tech/wsmp/5b5adb6458e5c4583338ebb9.xml)
 * [广州日报](http://freerss.qnmlgb.tech/wsmp/5b5adb2958e5c4583338eb2c.xml)
 * [GQ实验室](http://freerss.qnmlgb.tech/wsmp/5b5adb2658e5c4583338eb18.xml)
 * [冯仑风马牛](http://freerss.qnmlgb.tech/wsmp/5b5adb1d58e5c4583338eafe.xml)
