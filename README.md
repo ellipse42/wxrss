@@ -2,7 +2,9 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [晚点早知道](http://freerss.qnmlgb.tech/wsmp/5f311cae497ff43b9b6e8e9e.xml)
 * [青芒财经](http://freerss.qnmlgb.tech/wsmp/5f243e84497ff44c570511bf.xml)
+* [CBNData消费站](http://freerss.qnmlgb.tech/wsmp/5f205a22497ff44c5704f17b.xml)
 * [营销有一套](http://freerss.qnmlgb.tech/wsmp/5f20598b497ff45023a7a429.xml)
 * [凹凸镜DOC](http://freerss.qnmlgb.tech/wsmp/5f205930497ff45023a7a422.xml)
 * [经观新闻](http://freerss.qnmlgb.tech/wsmp/5f1b0b78497ff4183fb2bae5.xml)
