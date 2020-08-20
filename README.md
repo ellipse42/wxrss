@@ -180,6 +180,7 @@
 * [知音真实故事](http://freerss.qnmlgb.tech/wsmp/5c98d5f6497ff47584f793f5.xml)
 * [车东西](http://freerss.qnmlgb.tech/wsmp/5c98d301497ff473c955d511.xml)
 * [考研政治徐涛](http://freerss.qnmlgb.tech/wsmp/5c98d0f6497ff473c955d4fc.xml)
+* [易趣财经](http://freerss.qnmlgb.tech/wsmp/5c97af43497ff418a7d8f02e.xml)
 * [乌鸦预告片](http://freerss.qnmlgb.tech/wsmp/5c95b5fd497ff4339ebf3464.xml)
 * [圆首金老汉](http://freerss.qnmlgb.tech/wsmp/5c938029497ff40dff987632.xml)
 * [AlibabaDesign](http://freerss.qnmlgb.tech/wsmp/5c937ac1497ff40e05f99699.xml)
