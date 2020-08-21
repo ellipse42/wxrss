@@ -2,6 +2,8 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [远川研究所](http://freerss.qnmlgb.tech/wsmp/5f3ffa6b497ff41788bf8b77.xml)
+* [产品慎思录](http://freerss.qnmlgb.tech/wsmp/5f3ff9a8497ff41788bf8b6f.xml)
 * [晚点早知道](http://freerss.qnmlgb.tech/wsmp/5f311cae497ff43b9b6e8e9e.xml)
 * [青芒财经](http://freerss.qnmlgb.tech/wsmp/5f243e84497ff44c570511bf.xml)
 * [CBNData消费站](http://freerss.qnmlgb.tech/wsmp/5f205a22497ff44c5704f17b.xml)
@@ -63,6 +65,7 @@
 * [疯投圈](http://freerss.qnmlgb.tech/wsmp/5e22b3c7497ff4568259f3e8.xml)
 * [坚守本分](http://freerss.qnmlgb.tech/wsmp/5e21d52d497ff45683cddcde.xml)
 * [墨腾创投](http://freerss.qnmlgb.tech/wsmp/5e1fbba8497ff45683cdd008.xml)
+* [远川商业评论](http://freerss.qnmlgb.tech/wsmp/5e1f2acb497ff4568669ee70.xml)
 * [芭莎电影](http://freerss.qnmlgb.tech/wsmp/5e1de98e497ff45683cdc7e1.xml)
 * [YYeTs人人影视](http://freerss.qnmlgb.tech/wsmp/5e1b2df3497ff456887a07f5.xml)
 * [港股研究社](http://freerss.qnmlgb.tech/wsmp/5e1b1ca0497ff4567d250396.xml)
@@ -75,6 +78,7 @@
 * [GrayDesign](http://freerss.qnmlgb.tech/wsmp/5e104510497ff456811348f2.xml)
 * [新域实验室](http://freerss.qnmlgb.tech/wsmp/5e0ee418497ff42db2eaa3e5.xml)
 * [房东经济学](http://freerss.qnmlgb.tech/wsmp/5dff8c52497ff42db2eaa383.xml)
+* [浪潮新消费](http://freerss.qnmlgb.tech/wsmp/5dff8c4c497ff42dbab7c14d.xml)
 * [枪稿](http://freerss.qnmlgb.tech/wsmp/5dfc2227497ff42dbba9b94e.xml)
 * [中国青年研究](http://freerss.qnmlgb.tech/wsmp/5df9dfc1497ff42dbab7c135.xml)
 * [ToBeSaaS](http://freerss.qnmlgb.tech/wsmp/5df8c6e0497ff42db97471a1.xml)
