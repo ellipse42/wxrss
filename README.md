@@ -376,6 +376,7 @@
 * [白鲸出海](http://freerss.qnmlgb.tech/wsmp/5bed99a5244d4e03ab1d1382.xml)
 * [高瓴资本](http://freerss.qnmlgb.tech/wsmp/5bed9999244d4e052ec05bca.xml)
 * [亦无所知](http://freerss.qnmlgb.tech/wsmp/5bed985d244d4e05f4bdf4cb.xml)
+* [字节跳动技术团队](http://freerss.qnmlgb.tech/wsmp/5bed982d244d4e745247e384.xml)
 * [图解电影](http://freerss.qnmlgb.tech/wsmp/5beaeced244d4e48ea1eda94.xml)
 * [投行圈子](http://freerss.qnmlgb.tech/wsmp/5be85eb4244d4e419fcf6a93.xml)
 * [猎聘](http://freerss.qnmlgb.tech/wsmp/5be4aa77244d4e4ad2906e70.xml)
