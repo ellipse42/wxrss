@@ -303,6 +303,7 @@
 * [微信公开课](http://freerss.qnmlgb.tech/wsmp/5c35ef7c497ff4394f53a08b.xml)
 * [CVer](http://freerss.qnmlgb.tech/wsmp/5c35ed24497ff43947ae4fb2.xml)
 * [开发者技术前线](http://freerss.qnmlgb.tech/wsmp/5c35df4d497ff43943a9d040.xml)
+* [锌财经](http://freerss.qnmlgb.tech/wsmp/5c35dcc8497ff43945778363.xml)
 * [稿事编辑部](http://freerss.qnmlgb.tech/wsmp/5c35b51e497ff43943a9cf8c.xml)
 * [中国日报网](http://freerss.qnmlgb.tech/wsmp/5c35ae40497ff43942cdabce.xml)
 * [GQ报道](http://freerss.qnmlgb.tech/wsmp/5c3344e9497ff433f821d7d1.xml)
