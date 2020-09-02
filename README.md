@@ -17,6 +17,7 @@
 * [蓝莓财经](http://freerss.qnmlgb.tech/wsmp/5f15bda0497ff4184a32a378.xml)
 * [飞猪](http://freerss.qnmlgb.tech/wsmp/5f15bd93497ff418468ee9c4.xml)
 * [展开讲讲编辑部](http://freerss.qnmlgb.tech/wsmp/5f0b2783497ff418468ea86c.xml)
+* [读数一帜](http://freerss.qnmlgb.tech/wsmp/5efa2f59497ff4183d4e2cfd.xml)
 * [湾区经济评论](http://freerss.qnmlgb.tech/wsmp/5ef0f087497ff407498125cf.xml)
 * [猛兽财经](http://freerss.qnmlgb.tech/wsmp/5ee27069497ff40745d7820e.xml)
 * [BT财经](http://freerss.qnmlgb.tech/wsmp/5ede7050497ff40747984c25.xml)
