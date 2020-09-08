@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [人神共奋](http://freerss.qnmlgb.tech/wsmp/5f579358497ff41788c108a1.xml)
 * [远川研究所](http://freerss.qnmlgb.tech/wsmp/5f3ffa6b497ff41788bf8b77.xml)
 * [产品慎思录](http://freerss.qnmlgb.tech/wsmp/5f3ff9a8497ff41788bf8b6f.xml)
 * [晚点早知道](http://freerss.qnmlgb.tech/wsmp/5f311cae497ff43b9b6e8e9e.xml)
