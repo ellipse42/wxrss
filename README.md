@@ -778,6 +778,7 @@
 * [开眼Eyepetizer](http://freerss.qnmlgb.tech/wsmp/5b6bad80244d4e40858c21cf.xml)
 * [Docker](http://freerss.qnmlgb.tech/wsmp/5b6ba600244d4e408b601727.xml)
 * [互联网er的早读课](http://freerss.qnmlgb.tech/wsmp/5b6ba4fc244d4e4094bedabb.xml)
+* [二爷鉴书](http://freerss.qnmlgb.tech/wsmp/5b6acfd0244d4e4091e9c01d.xml)
 * [小众软件](http://freerss.qnmlgb.tech/wsmp/5b698937244d4e40884eea63.xml)
 * [LinkedIn](http://freerss.qnmlgb.tech/wsmp/5b697eba244d4e40858c20a7.xml)
 * [何凯文考研英语](http://freerss.qnmlgb.tech/wsmp/5b697dbb244d4e4091e9bf6c.xml)
