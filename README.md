@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [易凯资本](http://freerss.qnmlgb.tech/wsmp/5f586a4a497ff417860c8787.xml)
 * [人神共奋](http://freerss.qnmlgb.tech/wsmp/5f579358497ff41788c108a1.xml)
 * [远川研究所](http://freerss.qnmlgb.tech/wsmp/5f3ffa6b497ff41788bf8b77.xml)
 * [产品慎思录](http://freerss.qnmlgb.tech/wsmp/5f3ff9a8497ff41788bf8b6f.xml)
@@ -363,6 +364,7 @@
 * [简二家](http://freerss.qnmlgb.tech/wsmp/5c197b36497ff42896669058.xml)
 * [金融八卦女频道](http://freerss.qnmlgb.tech/wsmp/5c18b8ad497ff42896668eb3.xml)
 * [娱乐独角兽](http://freerss.qnmlgb.tech/wsmp/5c16e332497ff44435d232f1.xml)
+* [远望资本iVision](http://freerss.qnmlgb.tech/wsmp/5c15d6a7497ff4288e278a90.xml)
 * [云锋金融](http://freerss.qnmlgb.tech/wsmp/5c15d630497ff42895333b51.xml)
 * [叉烧往事](http://freerss.qnmlgb.tech/wsmp/5c0fd1d4497ff4288da37631.xml)
 * [深响](http://freerss.qnmlgb.tech/wsmp/5c0fc8ab497ff42896667c8e.xml)
