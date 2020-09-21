@@ -38,6 +38,7 @@
 * [运维派](http://freerss.qnmlgb.tech/wsmp/5ea39e7c497ff450689ddad0.xml)
 * [findyi](http://freerss.qnmlgb.tech/wsmp/5ea1766c497ff4506c033a97.xml)
 * [一起设计](http://freerss.qnmlgb.tech/wsmp/5e9f2be3497ff450689dbf2b.xml)
+* [明星资本论](http://freerss.qnmlgb.tech/wsmp/5e94947c497ff450659cfe26.xml)
 * [汽车周刊](http://freerss.qnmlgb.tech/wsmp/5e935b7f497ff450659cf4a7.xml)
 * [36氪出海](http://freerss.qnmlgb.tech/wsmp/5e8008ac497ff4398a4d8040.xml)
 * [远川研究所](http://freerss.qnmlgb.tech/wsmp/5e800849497ff439859683d5.xml)
