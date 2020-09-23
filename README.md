@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [红与绿](http://freerss.qnmlgb.tech/wsmp/5f6a3226497ff45e66e6b09a.xml)
 * [易凯资本](http://freerss.qnmlgb.tech/wsmp/5f586a4a497ff417860c8787.xml)
 * [人神共奋](http://freerss.qnmlgb.tech/wsmp/5f579358497ff41788c108a1.xml)
 * [远川研究所](http://freerss.qnmlgb.tech/wsmp/5f3ffa6b497ff41788bf8b77.xml)
@@ -44,6 +45,7 @@
 * [36氪出海](http://freerss.qnmlgb.tech/wsmp/5e8008ac497ff4398a4d8040.xml)
 * [远川研究所](http://freerss.qnmlgb.tech/wsmp/5e800849497ff439859683d5.xml)
 * [上海市民生活指南](http://freerss.qnmlgb.tech/wsmp/5e800818497ff4397b89199a.xml)
+* [1818黄金眼](http://freerss.qnmlgb.tech/wsmp/5e6f6ab3497ff4397f6316c5.xml)
 * [独立播客](http://freerss.qnmlgb.tech/wsmp/5e6df43e497ff4397ccb480d.xml)
 * [飞观App](http://freerss.qnmlgb.tech/wsmp/5e6653be497ff46d2c9b1181.xml)
 * [V电影movie](http://freerss.qnmlgb.tech/wsmp/5e6650c0497ff46d293625cc.xml)
