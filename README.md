@@ -205,6 +205,7 @@
 * [城市漫游计划](http://freerss.qnmlgb.tech/wsmp/5c92c3c5497ff40e07448209.xml)
 * [互联派](http://freerss.qnmlgb.tech/wsmp/5c926aaf497ff40e031aea3e.xml)
 * [腾讯媒体研究院](http://freerss.qnmlgb.tech/wsmp/5c91e9a2497ff40e031ae7a4.xml)
+* [法律读库](http://freerss.qnmlgb.tech/wsmp/5c91e880497ff40e12d29f92.xml)
 * [春哥解惑](http://freerss.qnmlgb.tech/wsmp/5c8e4438497ff42adeacb07f.xml)
 * [市井财经](http://freerss.qnmlgb.tech/wsmp/5c8e4131497ff42adc843aed.xml)
 * [徐三刀评楼市](http://freerss.qnmlgb.tech/wsmp/5c8cc03c497ff42ad9860911.xml)
