@@ -175,6 +175,7 @@
 * [知乎](http://freerss.qnmlgb.tech/wsmp/5cb86b2e497ff444c3012441.xml)
 * [知识星球精选](http://freerss.qnmlgb.tech/wsmp/5cb86a05497ff4759bd19df8.xml)
 * [BYVoid](http://freerss.qnmlgb.tech/wsmp/5cb86373497ff4759bd19dcd.xml)
+* [晚点LatePost](http://freerss.qnmlgb.tech/wsmp/5cb33c39497ff44d7c17fe23.xml)
 * [刘晓博说财经](http://freerss.qnmlgb.tech/wsmp/5cb31952497ff40625b87f4e.xml)
 * [杜绍斐](http://freerss.qnmlgb.tech/wsmp/5cb20297497ff4149f80b98b.xml)
 * [财经连环话](http://freerss.qnmlgb.tech/wsmp/5caf7fe9497ff427f66ea82b.xml)
