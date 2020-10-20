@@ -740,6 +740,7 @@
 * [睡不着便利店](http://freerss.qnmlgb.tech/wsmp/5b8032a5244d4e47d7a5c031.xml)
 * [谈心社](http://freerss.qnmlgb.tech/wsmp/5b80326a244d4e47d346ed5e.xml)
 * [秋叶PPT](http://freerss.qnmlgb.tech/wsmp/5b80319f244d4e47d8724a96.xml)
+* [新熵](http://freerss.qnmlgb.tech/wsmp/5b7ec12a244d4e47d65f7455.xml)
 * [雪球](http://freerss.qnmlgb.tech/wsmp/5b7ec0b3244d4e47d7a5bf03.xml)
 * [设计邦](http://freerss.qnmlgb.tech/wsmp/5b7ebfa6244d4e47d7a5befc.xml)
 * [见实](http://freerss.qnmlgb.tech/wsmp/5b7e8bd8244d4e47d4437cfd.xml)
