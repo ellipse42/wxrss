@@ -691,7 +691,7 @@
 * [发现新西兰](http://freerss.qnmlgb.tech/wsmp/5b9154c3244d4e46c967d108.xml)
 * [Feekr旅行](http://freerss.qnmlgb.tech/wsmp/5b9153d6244d4e466a61561f.xml)
 * [Spenser](http://freerss.qnmlgb.tech/wsmp/5b9121d9244d4e46bbcc1d1d.xml)
-* [难逃一吸](http://freerss.qnmlgb.tech/wsmp/5b90cb73244d4e705541957f.xml)
+* [那個NG](http://freerss.qnmlgb.tech/wsmp/5b90cb73244d4e705541957f.xml)
 * [ELLEMEN睿士](http://freerss.qnmlgb.tech/wsmp/5b8f6a99244d4e70554193e7.xml)
 * [中央广电总台中国之声](http://freerss.qnmlgb.tech/wsmp/5b8f27ca244d4e7055419393.xml)
 * [大飙车](http://freerss.qnmlgb.tech/wsmp/5b8ed6a1244d4e705ec29b0a.xml)
