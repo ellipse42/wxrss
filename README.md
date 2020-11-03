@@ -22,6 +22,7 @@
 * [飞猪](http://freerss.qnmlgb.tech/wsmp/5f15bd93497ff418468ee9c4.xml)
 * [远川投资评论](http://freerss.qnmlgb.tech/wsmp/5f15bc6b497ff418523db732.xml)
 * [展开讲讲编辑部](http://freerss.qnmlgb.tech/wsmp/5f0b2783497ff418468ea86c.xml)
+* [格隆汇楼市](http://freerss.qnmlgb.tech/wsmp/5f0b25dd497ff418523d7381.xml)
 * [红漏斗](http://freerss.qnmlgb.tech/wsmp/5f091ae0497ff418468e9d22.xml)
 * [读数一帜](http://freerss.qnmlgb.tech/wsmp/5efa2f59497ff4183d4e2cfd.xml)
 * [湾区经济评论](http://freerss.qnmlgb.tech/wsmp/5ef0f087497ff407498125cf.xml)
