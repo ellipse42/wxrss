@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [锐问 Record](http://freerss.qnmlgb.tech/wsmp/5fa14fab497ff425173830ea.xml)
 * [红与绿](http://freerss.qnmlgb.tech/wsmp/5f6a3226497ff45e66e6b09a.xml)
 * [易凯资本](http://freerss.qnmlgb.tech/wsmp/5f586a4a497ff417860c8787.xml)
 * [人神共奋](http://freerss.qnmlgb.tech/wsmp/5f579358497ff41788c108a1.xml)
