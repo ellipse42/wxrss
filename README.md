@@ -107,7 +107,7 @@
 * [过载FM](http://freerss.qnmlgb.tech/wsmp/5dea6601497ff42dbba9b8e2.xml)
 * [晚点LatePost](http://freerss.qnmlgb.tech/wsmp/5de4df49497ff42db42a4893.xml)
 * [远川科技评论](http://freerss.qnmlgb.tech/wsmp/5de0b42f497ff42dbab7c0c6.xml)
-* [没想到Daily](http://freerss.qnmlgb.tech/wsmp/5ddfa902497ff42db0453eee.xml)
+* [后浪研究所](http://freerss.qnmlgb.tech/wsmp/5ddfa902497ff42db0453eee.xml)
 * [中国信用卡](http://freerss.qnmlgb.tech/wsmp/5ddf14ab497ff42db2eaa316.xml)
 * [国泰君安证券研究](http://freerss.qnmlgb.tech/wsmp/5ddb93c9497ff42db3a2d4ed.xml)
 * [播客一下](http://freerss.qnmlgb.tech/wsmp/5dd3e4fe497ff42dbc21ea71.xml)
