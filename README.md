@@ -100,6 +100,7 @@
 * [中国青年研究](http://freerss.qnmlgb.tech/wsmp/5df9dfc1497ff42dbab7c135.xml)
 * [ToBeSaaS](http://freerss.qnmlgb.tech/wsmp/5df8c6e0497ff42db97471a1.xml)
 * [盖茨基金会](http://freerss.qnmlgb.tech/wsmp/5df859f5497ff42dbab7c128.xml)
+* [娱乐产业](http://freerss.qnmlgb.tech/wsmp/5df6de6d497ff42db0453f2f.xml)
 * [十里村](http://freerss.qnmlgb.tech/wsmp/5df6dda0497ff42dbc21eac8.xml)
 * [零售老板参考](http://freerss.qnmlgb.tech/wsmp/5df6dd52497ff42dbc21eac4.xml)
 * [血钻故事](http://freerss.qnmlgb.tech/wsmp/5df62ae1497ff42dbc21eac1.xml)
