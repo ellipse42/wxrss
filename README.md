@@ -2,6 +2,7 @@
 
 > 数据更新延迟一天左右，可 Ctrl+F 搜索你需要订阅的账号，前往[瓦斯阅读](https://qnmlgb.tech/publicrss)查看更多
 
+* [中信书院](http://freerss.qnmlgb.tech/wsmp/5fd2e928497ff4448080955a.xml)
 * [锐问 Record](http://freerss.qnmlgb.tech/wsmp/5fa14fab497ff425173830ea.xml)
 * [三公子的事务所](http://freerss.qnmlgb.tech/wsmp/5f70df6e497ff45e65f54b28.xml)
 * [红与绿](http://freerss.qnmlgb.tech/wsmp/5f6a3226497ff45e66e6b09a.xml)
@@ -224,6 +225,7 @@
 * [春哥解惑](http://freerss.qnmlgb.tech/wsmp/5c8e4438497ff42adeacb07f.xml)
 * [市井财经](http://freerss.qnmlgb.tech/wsmp/5c8e4131497ff42adc843aed.xml)
 * [徐三刀评楼市](http://freerss.qnmlgb.tech/wsmp/5c8cc03c497ff42ad9860911.xml)
+* [美剧炸了](http://freerss.qnmlgb.tech/wsmp/5c8cbfec497ff42ae17cfb13.xml)
 * [环球音乐榜](http://freerss.qnmlgb.tech/wsmp/5c8c6f2f497ff42ae17cfa31.xml)
 * [K社](http://freerss.qnmlgb.tech/wsmp/5c8c6e67497ff42adf93c9e6.xml)
 * [芯榜](http://freerss.qnmlgb.tech/wsmp/5c8671e4497ff42ae0438c65.xml)
