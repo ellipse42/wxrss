@@ -187,6 +187,7 @@
 * [晚点LatePost](http://freerss.qnmlgb.tech/wsmp/5cb33c39497ff44d7c17fe23.xml)
 * [刘晓博说财经](http://freerss.qnmlgb.tech/wsmp/5cb31952497ff40625b87f4e.xml)
 * [杜绍斐](http://freerss.qnmlgb.tech/wsmp/5cb20297497ff4149f80b98b.xml)
+* [新10亿商业参考](http://freerss.qnmlgb.tech/wsmp/5cb20108497ff47cbcfb02bb.xml)
 * [财经连环话](http://freerss.qnmlgb.tech/wsmp/5caf7fe9497ff427f66ea82b.xml)
 * [AINLP](http://freerss.qnmlgb.tech/wsmp/5caf7d31497ff423ad4ca5bf.xml)
 * [阿里巴巴中间件](http://freerss.qnmlgb.tech/wsmp/5caf7be6497ff448ed31f595.xml)
